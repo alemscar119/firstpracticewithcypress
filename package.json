@@ -1,0 +1,21 @@
+{
+  "name": "firstpracticewithcypress",
+  "version": "1.0.0",
+  "description": "Cypress with Cucumber - EJEMPLO",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "keywords": [
+    "Cypress",
+    "BDD",
+    "Cucumber"
+  ],
+  "author": "Alejandro Scarpatti",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.2.0",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "prettier": "^3.2.5"
+  }
+}
